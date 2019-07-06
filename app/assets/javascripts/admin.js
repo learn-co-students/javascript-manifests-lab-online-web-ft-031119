@@ -15,5 +15,5 @@
 //= require turbolinks
 //= require wrong_place_wrong_time
 //= require learn
-//= require main
-//= require alert_maker
+//= require doesn_nothing
+//= require hello_world
